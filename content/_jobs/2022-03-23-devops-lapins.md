@@ -7,7 +7,8 @@ RDV-Solidarités est un outil de prise de RDV en ligne et d'organisation du temp
 
 La plateforme est aujourd'hui hébergée sur Scalingo mais nous souhaitons passer sur un [_Managed Kubernetes Service_](https://www.ovhcloud.com/fr/public-cloud/kubernetes/) d'OVH pour profiter d'un hébergement certifié [Hébergeur de Données de Santé (HDS)](https://www.ovhcloud.com/fr/enterprise/certification-conformity/hds/).
 
-L'équipe [RDV-Solidarités](https://beta.gouv.fr/startups/lapins.html) recherche donc une personne pour assurer la bonne migration du service et permettre sa montée en charge pour les 4 000 Conseillers Numériques France services qui viendront prochainement doubler le nombre de personnes qui utilisent la plateforme au quotidien.
+On cherche une personne pour rejoindre notre [équipe](https://beta.gouv.fr/startups/lapins.html) et assurer la bonne migration du service.
+Cela permettra sa montée en charge pour les 4 000 Conseillers Numériques France services qui viendront prochainement doubler le nombre de personnes qui utilisent la plateforme au quotidien.
 <!--more-->
 
 <style type="text/css">
@@ -23,15 +24,16 @@ h2, h3 {
 
 ## Responsabilités
 
-Intégré à l'équipe RDV-Solidarités vous aurez la responsabilité de **mettre en place une infrastructure basée sur Kubernetes** et d'assurer :
+Ta responsabilité, si tu l'acceptes, sera de **mettre en place une infrastructure basée sur Kubernetes** et d'assurer :
 
-- la migration du service vers cette nouvelle infrastructure,
-- sa stabilité pour les personnes utilisatrices actuellement et 
+- la migration du service vers cette nouvelle infrastructure ;
+- sa stabilité pour les personnes utilisatrices actuellement ; 
 - sa montée en charge avec les nouveaux usages.
 
-Ces travaux seront réalisé en lien avec le reste de l'équipe que vous accompagnerez dans la prise en main de cette nouvelle infrastructure.
+Ces travaux seront réalisés en lien avec le reste de l'équipe que tu accompagneras dans la prise en main de cette nouvelle infrastructure.
 
-Au delà de ce passage sur Kubernetes, d'autres travaux techniques pourront être entrepris, notamment l'amélioration du suivi des tâches effectuées par les workers (emails, sms, webhook).
+Au delà de ce passage sur Kubernetes, d'autres travaux techniques pourront être entrepris.
+Notamment l'amélioration du suivi des tâches effectuées par les workers (emails, sms, webhook).
 
 
 ## Stack
@@ -42,19 +44,21 @@ Au delà de ce passage sur Kubernetes, d'autres travaux techniques pourront êtr
 Le code source : https://github.com/betagouv/rdv-solidarites.fr/
 
 
-## Votre profil nous intéresse si :
+## Ecris-nous si :
 
-- Vous êtes animé·e par la volonté d’améliorer le service public.
-- Vous êtes familier ou familière avec Kubernetes.
-- Vous savez faire preuve d’initiative et tenir vos engagements.
-- Vous aimez travailler dans une petite équipe et de manière agile.
-- Vous êtes à l’écoute et à l’aise dans la communication orale et écrite, avec vos collègues et en public.
+- Tu es animé·e par la volonté d’améliorer le service publi ;
+- Tu es familier ou familière avec Kubernetes ;
+- Tu sais faire preuve d’initiative et tenir tes engagements ; 
+- Tu aimes travailler dans une petite équipe et de manière agile ;
+- Tu es à l’écoute et à l’aise dans la communication orale et écrite, avec tes collègues et en public.
 
 
 ## Modalités
 
-- Poste ouvert pour une indépendante ou un indépendant pour un premier contrat de 4 mois renouvelable, à temps plein (4/5 par semaine négociable selon le profil).
-- Le télétravail est possible, une présence ponctuelle à Paris est demandée pour participer aux sessions stratégiques et collaboratives.
+- Poste ouvert pour une indépendante ou un indépendant ;
+- Premier contrat de 4 mois renouvelable ;
+- Temps plein (4/5 par semaine négociable selon le profil) ;
+- Le télétravail est possible, une présence ponctuelle à Paris est demandée pour participer aux sessions stratégiques et collaboratives ;
 - Démarrage dès que possible.
 
 Racontez-nous pourquoi vous auriez envie de nous rejoindre et envoyez-nous votre CV / GitHub, le tout à [contact@rdv-solidarites.fr avec incubateur@anct.gouv.fr en copie](mailto:contact@rdv-solidarites.fr?cc=incubateur@anct.gouv.fr&subject=Recrutement OPS RDV-Solidarité)
